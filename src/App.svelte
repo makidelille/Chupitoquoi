@@ -1,11 +1,10 @@
 <script>
-  import shots from "./shots.json";
-  import Shot from "./lib/Shot.svelte";
-  import "@selemondev/svelte-marquee/dist/style.css";
-  import { cubicInOut } from "svelte/easing";
-  import Marquee from "./lib/Marquee.svelte";
   import { onMount } from "svelte";
+  import { cubicInOut } from "svelte/easing";
   import Filter from "./lib/Filter.svelte";
+  import Marquee from "./lib/Marquee.svelte";
+  import Shot from "./lib/Shot.svelte";
+  import shots from "./shots.json";
 
   const globalDuration = 3000;
   const tickRate = 1000 / 60;
