@@ -1,18 +1,20 @@
 
 <script>
-    import { onMount } from "svelte";
-    import shots from "../shots.json";
+    import {  onMount } from "svelte";
 
-    const tags = new Set(shots.map(s => s.tags).flat())
-
+    
     let {
-        available = $bindable()
+        available = $bindable(),
+        list
     } = $props();
+
+    const tags = $derived(new Set(list.map(s => s.tags).flat()));
 
 
     onMount(() => {
         tags.forEach(t => available.push(t));
     })
+
     
 
     $effect(() => {
@@ -21,6 +23,8 @@
 
 
 </script>
+
+{#if tags.size}
 
 <h4 class="flex w-full">
     Types de shot:
@@ -44,3 +48,5 @@
     
     {/each}
 </ul>
+
+{/if}
