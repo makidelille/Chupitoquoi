@@ -1,407 +1,478 @@
 [
     {
-        "name": "le premier",
-        "tags": [],
-        "image": "https://picsum.photos/200/300"
+        "name": "BUFFALO",
+        "tags": []
     },
     {
-        "name": "pimento",
-        "tags": ["épicé"],
-        "image": "https://picsum.photos/200/300"
+        "name": "CACERES",
+        "tags": []
     },
     {
-        "name": "funnos",
-        "tags": ["épicé", "fun"],
-        "image": "https://picsum.photos/200/300"
+        "name": "CALIPPO",
+        "tags": []
     },
     {
-        "name": "tropical twist",
-        "tags": ["fruité"],
-        "image": "https://picsum.photos/200/300"
+        "name": "CANARIE",
+        "tags": []
     },
     {
-        "name": "blue lagoon",
-        "tags": ["bleu", "rafraîchissant"],
-        "image": "https://picsum.photos/200/300"
+        "name": "CARAIBE",
+        "tags": []
     },
     {
-        "name": "pimento",
-        "tags": ["épicé"]
+        "name": "CARLTON",
+        "tags": []
     },
     {
-        "name": "funnos",
-        "tags": ["épicé", "fun"]
+        "name": "CATALAN",
+        "tags": []
     },
     {
-        "name": "tropical twist",
-        "tags": ["fruité"]
+        "name": "CELESTE",
+        "tags": []
     },
     {
-        "name": "blue lagoon",
-        "tags": ["bleu", "rafraîchissant"]
+        "name": "CHINOS",
+        "tags": []
     },
     {
-        "name": "red devil",
-        "tags": ["épicé", "rouge"]
+        "name": "COW BOY",
+        "tags": []
     },
     {
-        "name": "green fairy",
-        "tags": ["vert"]
+        "name": "CRISTAL",
+        "tags": []
     },
     {
-        "name": "sunrise",
-        "tags": ["fruité", "orange"]
+        "name": "CUA CUA",
+        "tags": []
     },
     {
-        "name": "cactus shot",
-        "tags": ["épicé", "vert"]
+        "name": "CUL SEC",
+        "tags": []
     },
     {
-        "name": "bubblegum",
-        "tags": ["doux", "rose"]
+        "name": "CUPCAKE",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "fireball",
-        "tags": ["épicé"]
+        "name": "DEFONCE",
+        "tags": []
     },
     {
-        "name": "minty fresh",
-        "tags": ["rafraîchissant"]
+        "name": "FERRARI",
+        "tags": ["Flambé 🔥"]
     },
     {
-        "name": "choco loco",
-        "tags": ["doux"]
+        "name": "GABACHO",
+        "tags": []
     },
     {
-        "name": "lemon drop",
-        "tags": ["acidulé"]
+        "name": "GEORGIA",
+        "tags": ["Flambé 🔥", "Fort 💣", "Drôle 😆"]
     },
     {
-        "name": "caramel kiss",
-        "tags": ["doux"]
+        "name": "GORETTE",
+        "tags": []
     },
     {
-        "name": "berry blast",
-        "tags": ["fruité", "rouge"]
+        "name": "INSECTE",
+        "tags": []
     },
     {
-        "name": "café shot",
-        "tags": ["énergisant"]
+        "name": "KITCHEN",
+        "tags": []
     },
     {
-        "name": "ginger snap",
-        "tags": ["épicé"]
+        "name": "KREMLIN",
+        "tags": []
     },
     {
-        "name": "vanilla sky",
-        "tags": ["doux"]
+        "name": "LA DAME",
+        "tags": []
     },
     {
-        "name": "coco loco",
-        "tags": ["exotique"]
+        "name": "LA MORT",
+        "tags": ["Fort 💣"]
     },
     {
-        "name": "mango tango",
-        "tags": ["fruité"]
+        "name": "NATHALIE",
+        "tags": []
     },
     {
-        "name": "bloody mary shot",
-        "tags": ["rouge", "épicé"]
+        "name": "PANELLET",
+        "tags": []
     },
     {
-        "name": "apple pie",
-        "tags": ["doux"]
+        "name": "LAGARUS",
+        "tags": []
     },
     {
-        "name": "peach fuzz",
-        "tags": ["fruité"]
+        "name": "L'APERO",
+        "tags": []
     },
     {
-        "name": "spicy mango",
-        "tags": ["fruité", "épicé"]
+        "name": "LE BANG",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "black pearl",
-        "tags": ["mystère", "noir"]
+        "name": "LE PLAF",
+        "tags": []
     },
     {
-        "name": "white russian shot",
-        "tags": ["doux"]
+        "name": "LORENZO",
+        "tags": ["Fort 💣", "Flambé 🔥", "Drôle 😆"]
     },
     {
-        "name": "mojito shot",
-        "tags": ["rafraîchissant", "acidulé"]
+        "name": "LOU LOU",
+        "tags": []
     },
     {
-        "name": "tequila sunrise shot",
-        "tags": ["fruité"]
+        "name": "LOURDES",
+        "tags": []
     },
     {
-        "name": "raspberry rush",
-        "tags": ["fruité"]
+        "name": "MACARON",
+        "tags": []
     },
     {
-        "name": "pineapple punch",
-        "tags": ["exotique"]
+        "name": "MACHINE",
+        "tags": []
     },
     {
-        "name": "hazelnut dream",
-        "tags": ["doux"]
+        "name": "MAFALDA",
+        "tags": []
     },
     {
-        "name": "irish cream",
-        "tags": ["doux"]
+        "name": "MAGIQUE",
+        "tags": []
     },
     {
-        "name": "sour cherry",
-        "tags": ["acidulé"]
+        "name": "MANUELA",
+        "tags": []
     },
     {
-        "name": "cola bomb",
-        "tags": ["pétillant"]
+        "name": "MARTINE",
+        "tags": []
     },
     {
-        "name": "energy boost",
-        "tags": ["énergisant"]
+        "name": "MORPION",
+        "tags": []
     },
     {
-        "name": "passion fruit",
-        "tags": ["exotique"]
+        "name": "MURPHYS",
+        "tags": []
     },
     {
-        "name": "cinnamon roll",
-        "tags": ["doux"]
+        "name": "OLYMPIA",
+        "tags": []
     },
     {
-        "name": "honey bee",
-        "tags": ["doux"]
+        "name": "ORGASME",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "almond joy",
-        "tags": ["doux"]
+        "name": "PARFUME",
+        "tags": []
     },
     {
-        "name": "watermelon wave",
-        "tags": ["fruité"]
+        "name": "PASSION",
+        "tags": []
     },
     {
-        "name": "grape escape",
-        "tags": ["fruité"]
+        "name": "PATRIOT",
+        "tags": ["Flambé 🔥"]
     },
     {
-        "name": "kiwi kick",
-        "tags": ["acidulé"]
+        "name": "PELUCHE",
+        "tags": []
     },
     {
-        "name": "banana split",
-        "tags": ["doux"]
+        "name": "PEPITO",
+        "tags": []
     },
+        {
+        "name": "POINT G",
+        "tags": ["Drôle 😆", "Savoureux 🍬"]
+    },
+    {
+        "name": "POMPIER",
+        "tags": []
+    },
+    {
+        "name": "POSEIDON",
+        "tags": []
+    },
+    {
+        "name": "P'TI CON",
+        "tags": []
+    },
+    {
+        "name": "ROBOCOP",
+        "tags": []
+    },
+    {
+        "name": "SERGENT",
+        "tags": []
+    },
+    {
+        "name": "SPIRALE",
+        "tags": []
+    },
+    {
+        "name": "SUCETTE",
+        "tags": []
+    },
+    {
+        "name": "SUSANNE",
+        "tags": []
+    },
+    {
+        "name": "TEQUILA",
+        "tags": []
+    },
+    {
+        "name": "TORNADE",
+        "tags": []
+    },
+    {
+        "name": "VAMPIRE",
+        "tags": ["Drôle 😆"]
+    },
+    {
+        "name": "VANESSA",
+        "tags": []
+    },
+    {
+        "name": "VICIEUX",
+        "tags": []
+    },
+    {
+        "name": "ALICANTE",
+        "tags": []
+    },
+    {
+        "name": "AQUARIUM",
+        "tags": []
+    },
+    {
+        "name": "BABY GUM",
+        "tags": []
+    },
+    {
+        "name": "BIG PAPA",
+        "tags": ["Savoureux 🍬", "Flambé 🔥"]
+    },
+    {
+        "name": "BLUE RAY",
+        "tags": ["Flambé 🔥"]
+    },
     {
-        "name": "strawberry fields",
-        "tags": ["fruité"]
+        "name": "BULL DOG",
+        "tags": []
     },
     {
-        "name": "coconut cream",
-        "tags": ["exotique", "doux"]
+        "name": "CAMELEON",
+        "tags": []
     },
     {
-        "name": "spicy bloody",
-        "tags": ["épicé", "rouge"]
+        "name": "CAROLINA",
+        "tags": []
     },
     {
-        "name": "fraise tagada",
-        "tags": ["doux"]
+        "name": "CHEROKEE",
+        "tags": []
     },
     {
-        "name": "bubble tea shot",
-        "tags": ["doux"]
+        "name": "CIEL BLEU",
+        "tags": []
     },
     {
-        "name": "tarte tatin",
-        "tags": ["doux"]
+        "name": "COCOCHOC",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "pina colada shot",
-        "tags": ["exotique", "doux"]
+        "name": "CONSTRIPE",
+        "tags": []
     },
     {
-        "name": "ginger fizz",
-        "tags": ["épicé", "pétillant"]
+        "name": "CRISTINA",
+        "tags": []
     },
     {
-        "name": "cassis crush",
-        "tags": ["fruité"]
+        "name": "ECLATANT",
+        "tags": []
     },
     {
-        "name": "orange blast",
-        "tags": ["fruité", "orange"]
+        "name": "EXPLOSIF",
+        "tags": []
     },
     {
-        "name": "cherry cola",
-        "tags": ["rouge", "pétillant"]
+        "name": "FARADET",
+        "tags": ["Flambé 🔥"]
     },
     {
-        "name": "spicy mojito",
-        "tags": ["épicé", "rafraîchissant"]
+        "name": "FLORENCE",
+        "tags": []
     },
     {
-        "name": "blueberry breeze",
-        "tags": ["fruité"]
+        "name": "FOUFOUNE",
+        "tags": []
     },
     {
-        "name": "tropical storm",
-        "tags": ["exotique", "fruité"]
+        "name": "GASOLINA",
+        "tags": []
     },
     {
-        "name": "café noisette",
-        "tags": ["doux"]
+        "name": "GIUSEPPE",
+        "tags": []
     },
     {
-        "name": "vanilla bean",
-        "tags": ["doux"]
+        "name": "KANGAROO",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "spicy apple",
-        "tags": ["épicé", "doux"]
+        "name": "LA BOMBE",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "caramel macchiato",
-        "tags": ["doux"]
+        "name": "LA TARTE",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "mint chocolate",
-        "tags": ["doux"]
+        "name": "MERINGUE",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "coco punch",
-        "tags": ["exotique", "fruité"]
+        "name": "SMARTIES",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "lemon pie",
-        "tags": ["doux"]
+        "name": "TIRAMISU",
+        "tags": ["Savoureux 🍬", "Drôle 😆"]
     },
     {
-        "name": "spicy berry",
-        "tags": ["épicé", "fruité"]
+        "name": "VENTOUSE",
+        "tags": ["Drôle 😆", "Fort 💣"]
     },
     {
-        "name": "tropical breeze",
-        "tags": ["exotique", "rafraîchissant"]
+        "name": "BESO FRIO",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "hazelnut coffee",
-        "tags": ["doux"]
+        "name": "BOY SCOUT",
+        "tags": ["Savoureux 🍬", "Flambé 🔥"]
     },
     {
-        "name": "candy crush",
-        "tags": ["doux"]
+        "name": "CHUPITZAZO",
+        "tags": ["Drôle 😆", "Fort 💣"]
     },
     {
-        "name": "spicy cola",
-        "tags": ["épicé", "pétillant"]
+        "name": "CUCARACHA",
+        "tags": ["Flambé 🔥"]
     },
     {
-        "name": "fruit punch",
-        "tags": ["fruité", "exotique"]
+        "name": "LA TORCHE",
+        "tags": ["Flambé 🔥", "Savoureux 🍬"]
     },
     {
-        "name": "coconut lime",
-        "tags": ["exotique", "acidulé"]
+        "name": "PETA ZÈTA",
+        "tags": ["Drôle 😆", "Fort 💣"]
     },
     {
-        "name": "berry mojito",
-        "tags": ["fruité", "rafraîchissant"]
+        "name": "3ÈME GRADE",
+        "tags": ["Fort 💣"]
     },
     {
-        "name": "spicy lemon",
-        "tags": ["épicé", "acidulé"]
+        "name": "BOB MARLEY",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "cherry bomb",
-        "tags": ["rouge", "épicé"]
+        "name": "PETA FRESA",
+        "tags": ["Drôle 😆", "Savoureux 🍬"]
     },
     {
-        "name": "blueberry mint",
-        "tags": ["fruité", "rafraîchissant"]
+        "name": "TERMINATOR",
+        "tags": ["Fort 💣"]
     },
     {
-        "name": "caramel apple",
-        "tags": ["doux"]
+        "name": "CANDY CRUSH",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "spicy pineapple",
-        "tags": ["épicé", "exotique"]
+        "name": "INDIAN PIPE",
+        "tags": ["Flambé 🔥", "Drôle 😆"]
     },
     {
-        "name": "tropical delight",
-        "tags": ["exotique", "doux"]
+        "name": "JAGER LEMON",
+        "tags": ["Drôle 😆", "Fort 💣"]
     },
     {
-        "name": "café vanille",
-        "tags": ["doux"]
+        "name": "KALASHNIKOV",
+        "tags": ["Flambé 🔥", "Fort 💣"]
     },
     {
-        "name": "berry lemonade",
-        "tags": ["fruité", "acidulé"]
+        "name": "P'TI CHINOIS",
+        "tags": ["Savoureux 🍬", "Flambé 🔥"]
     },
     {
-        "name": "spicy orange",
-        "tags": ["épicé", "orange"]
+        "name": "VIUADA NEGRA",
+        "tags": ["Savoureux 🍬", "Fort 💣", "Drôle 😆"]
     },
     {
-        "name": "mint explosion",
-        "tags": ["rafraîchissant"]
+        "name": "WILLY WONKA",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "choco mint",
-        "tags": ["doux"]
+        "name": "ESPRIT POTTER",
+        "tags": ["Flambé 🔥", "Savoureux 🍬"]
     },
     {
-        "name": "spicy coconut",
-        "tags": ["épicé", "exotique"]
+        "name": "FILS DE PUTE",
+        "tags": ["Fort 💣"]
     },
     {
-        "name": "berry coconut",
-        "tags": ["fruité", "exotique"]
+        "name": "FINDING NEMO",
+        "tags": ["Savoureux 🍬", "Drôle 😆"]
     },
     {
-        "name": "lemon ginger",
-        "tags": ["acidulé", "épicé"]
+        "name": "IRISH COFFEE",
+        "tags": ["Flambé 🔥", "Fort 💣", "Savoureux 🍬"]
     },
     {
-        "name": "spicy cherry",
-        "tags": ["épicé", "rouge"]
+        "name": "PULP FICTION",
+        "tags": ["Fort 💣", "Drôle 😆"]
     },
     {
-        "name": "café caramel",
-        "tags": ["doux"]
+        "name": "DOUCHE DOREE",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "tropical cherry",
-        "tags": ["exotique", "rouge"]
+        "name": "LES 3 CLAQUES",
+        "tags": ["Fort 💣"]
     },
     {
-        "name": "spicy berry blast",
-        "tags": ["épicé", "fruité"]
+        "name": "TITTY TWISTER",
+        "tags": ["Savoureux 🍬"]
     },
     {
-        "name": "mint berry",
-        "tags": ["fruité", "rafraîchissant"]
+        "name": "ROULETTE RUSSE",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "caramel berry",
-        "tags": ["doux", "fruité"]
+        "name": "BANANA DEL AMOR",
+        "tags": ["Savoureux 🍬", "Drôle 😆"]
     },
     {
-        "name": "spicy vanilla",
-        "tags": ["épicé", "doux"]
+        "name": "MANGE MA PATATE",
+        "tags": ["Savoureux 🍬", "Drôle 😆"]
     },
     {
-        "name": "berry caramel",
-        "tags": ["fruité", "doux"]
+        "name": "SWEET BODY SHOT",
+        "tags": ["Drôle 😆"]
     },
     {
-        "name": "café épicé",
-        "tags": ["épicé", "doux"]
+        "name": "TETON DE SILVIA",
+        "tags": ["Savoureux 🍬", "Drôle 😆"]
     }
 ]
