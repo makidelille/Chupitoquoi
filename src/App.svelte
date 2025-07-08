@@ -1,6 +1,6 @@
 <script>
   import { onMount } from "svelte";
-  import { cubicInOut } from "svelte/easing";
+  import { quintInOut } from "svelte/easing";
   import Filter from "./lib/Filter.svelte";
   import Marquee from "./lib/Marquee.svelte";
   import Shot from "./lib/Shot.svelte";
@@ -44,7 +44,7 @@
         return;
       }
 
-      scrollPos += (1 - cubicInOut(progress)) * 10000;
+      scrollPos += (1 - quintInOut(progress)) * 1000;
     }, tickRate);
   }
 
@@ -72,6 +72,15 @@
         })
     }
 </script>
+
+
+<header class="flex flex-col gap-2 w-full justify-center items-center p-4">
+  <h1 class="text-3xl flex w-full">Le Chupitoquoi</h1>
+  <h6 class="text-xl flex w-full">Tu ne sais pas quoi choisir ? Et bien ce n'est pas grave.
+     Le chupitoquoi est là pour t'aider à trouver le shot qu'il te faut.
+     Tu peux exclure certain type de shooter si tu le souhaites. Mais le mieux reste de tout avoir
+  </h6>
+</header>
 
 <main class="flex flex-col w-auto justify-start items-center gap-4 p-12">
 
@@ -103,13 +112,13 @@
      <button  onclick={reset}
       class="flex bg-white text-blue-500 py-2 px-4 rounded transition-colors duration-300 hover:bg-blue-200"
   style="font-size: 1.25rem; font-weight: bold;"> 
-  J'en veux un autre 💀 </button>
+  J'en veux un autre&nbsp;💀 </button>
 {:else if !running}
   
 <button class="bg-white text-blue-500 px-4 py-2 rounded transition-colors duration-300 hover:bg-blue-200"
   style="font-size: 1.5rem; font-weight: bold;"
 disabled={running} onclick={startAnimation}>
-  Trouve moi un shot 🔥
+  Trouve moi un shot&nbsp;🔥
 </button>
 
 {:else}
@@ -118,17 +127,12 @@ disabled={running} onclick={startAnimation}>
 
 </main>
 
+<footer class="absolute bottom-0 left-0 right-0 flex flex-col items-center justify-center py-1 gap-1">
+  <div>
+    Ce site n'est pas affilié avec l'Esprit Chupitos
+  </div>
+  <a href="https://github.com/makidelille/Chupitoquoi" target="_blank">Voir la source sur github</a>
+</footer>
+
 <style>
-  .gradient {
-		background: linear-gradient(
-			to right,
-			var(--gradientColor, white),
-			transparent
-		);
-		content: "";
-		height: 100%;
-		position: absolute;
-		width: var(--gradientWidth, 10%);
-		z-index: 2;
-	}
 </style>
