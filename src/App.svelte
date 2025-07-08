@@ -127,7 +127,8 @@ disabled={running} onclick={startAnimation}>
 
 </main>
 
-<footer class="absolute bottom-0 left-0 right-0 flex flex-col items-center justify-center py-1 gap-1">
+<div style="flex: 1 1 auto; display: flex;"></div>
+<footer class="bottom-0 left-0 right-0 flex flex-col items-center justify-center py-1 gap-1">
   <div>
     Ce site n'est pas affilié avec l'Esprit Chupitos
   </div>
