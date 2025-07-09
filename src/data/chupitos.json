@@ -1,478 +1,580 @@
 [
-    {
-        "name": "BUFFALO",
-        "tags": []
-    },
-    {
-        "name": "CACERES",
-        "tags": []
-    },
-    {
-        "name": "CALIPPO",
-        "tags": []
-    },
-    {
-        "name": "CANARIE",
-        "tags": []
-    },
-    {
-        "name": "CARAIBE",
-        "tags": []
-    },
-    {
-        "name": "CARLTON",
-        "tags": []
-    },
-    {
-        "name": "CATALAN",
-        "tags": []
-    },
-    {
-        "name": "CELESTE",
-        "tags": []
-    },
-    {
-        "name": "CHINOS",
-        "tags": []
-    },
-    {
-        "name": "COW BOY",
-        "tags": []
-    },
-    {
-        "name": "CRISTAL",
-        "tags": []
-    },
-    {
-        "name": "CUA CUA",
-        "tags": []
-    },
-    {
-        "name": "CUL SEC",
-        "tags": []
-    },
-    {
-        "name": "CUPCAKE",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "DEFONCE",
-        "tags": []
-    },
-    {
-        "name": "FERRARI",
-        "tags": ["Flambé 🔥"]
-    },
-    {
-        "name": "GABACHO",
-        "tags": []
-    },
-    {
-        "name": "GEORGIA",
-        "tags": ["Flambé 🔥", "Fort 💣", "Drôle 😆"]
-    },
-    {
-        "name": "GORETTE",
-        "tags": []
-    },
-    {
-        "name": "INSECTE",
-        "tags": []
-    },
-    {
-        "name": "KITCHEN",
-        "tags": []
-    },
-    {
-        "name": "KREMLIN",
-        "tags": []
-    },
-    {
-        "name": "LA DAME",
-        "tags": []
-    },
-    {
-        "name": "LA MORT",
-        "tags": ["Fort 💣"]
-    },
-    {
-        "name": "NATHALIE",
-        "tags": []
-    },
-    {
-        "name": "PANELLET",
-        "tags": []
-    },
-    {
-        "name": "LAGARUS",
-        "tags": []
-    },
-    {
-        "name": "L'APERO",
-        "tags": []
-    },
-    {
-        "name": "LE BANG",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "LE PLAF",
-        "tags": []
-    },
-    {
-        "name": "LORENZO",
-        "tags": ["Fort 💣", "Flambé 🔥", "Drôle 😆"]
-    },
-    {
-        "name": "LOU LOU",
-        "tags": []
-    },
-    {
-        "name": "LOURDES",
-        "tags": []
-    },
-    {
-        "name": "MACARON",
-        "tags": []
-    },
-    {
-        "name": "MACHINE",
-        "tags": []
-    },
-    {
-        "name": "MAFALDA",
-        "tags": []
-    },
-    {
-        "name": "MAGIQUE",
-        "tags": []
-    },
-    {
-        "name": "MANUELA",
-        "tags": []
-    },
-    {
-        "name": "MARTINE",
-        "tags": []
-    },
-    {
-        "name": "MORPION",
-        "tags": []
-    },
-    {
-        "name": "MURPHYS",
-        "tags": []
-    },
-    {
-        "name": "OLYMPIA",
-        "tags": []
-    },
-    {
-        "name": "ORGASME",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "PARFUME",
-        "tags": []
-    },
-    {
-        "name": "PASSION",
-        "tags": []
-    },
-    {
-        "name": "PATRIOT",
-        "tags": ["Flambé 🔥"]
-    },
-    {
-        "name": "PELUCHE",
-        "tags": []
-    },
-    {
-        "name": "PEPITO",
-        "tags": []
-    },
-        {
-        "name": "POINT G",
-        "tags": ["Drôle 😆", "Savoureux 🍬"]
-    },
-    {
-        "name": "POMPIER",
-        "tags": []
-    },
-    {
-        "name": "POSEIDON",
-        "tags": []
-    },
-    {
-        "name": "P'TI CON",
-        "tags": []
-    },
-    {
-        "name": "ROBOCOP",
-        "tags": []
-    },
-    {
-        "name": "SERGENT",
-        "tags": []
-    },
-    {
-        "name": "SPIRALE",
-        "tags": []
-    },
-    {
-        "name": "SUCETTE",
-        "tags": []
-    },
-    {
-        "name": "SUSANNE",
-        "tags": []
-    },
-    {
-        "name": "TEQUILA",
-        "tags": []
-    },
-    {
-        "name": "TORNADE",
-        "tags": []
-    },
-    {
-        "name": "VAMPIRE",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "VANESSA",
-        "tags": []
-    },
-    {
-        "name": "VICIEUX",
-        "tags": []
-    },
-    {
-        "name": "ALICANTE",
-        "tags": []
-    },
-    {
-        "name": "AQUARIUM",
-        "tags": []
-    },
-    {
-        "name": "BABY GUM",
-        "tags": []
-    },
-    {
-        "name": "BIG PAPA",
-        "tags": ["Savoureux 🍬", "Flambé 🔥"]
-    },
-    {
-        "name": "BLUE RAY",
-        "tags": ["Flambé 🔥"]
-    },
-    {
-        "name": "BULL DOG",
-        "tags": []
-    },
-    {
-        "name": "CAMELEON",
-        "tags": []
-    },
-    {
-        "name": "CAROLINA",
-        "tags": []
-    },
-    {
-        "name": "CHEROKEE",
-        "tags": []
-    },
-    {
-        "name": "CIEL BLEU",
-        "tags": []
-    },
-    {
-        "name": "COCOCHOC",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "CONSTRIPE",
-        "tags": []
-    },
-    {
-        "name": "CRISTINA",
-        "tags": []
-    },
-    {
-        "name": "ECLATANT",
-        "tags": []
-    },
-    {
-        "name": "EXPLOSIF",
-        "tags": []
-    },
-    {
-        "name": "FARADET",
-        "tags": ["Flambé 🔥"]
-    },
-    {
-        "name": "FLORENCE",
-        "tags": []
-    },
-    {
-        "name": "FOUFOUNE",
-        "tags": []
-    },
-    {
-        "name": "GASOLINA",
-        "tags": []
-    },
-    {
-        "name": "GIUSEPPE",
-        "tags": []
-    },
-    {
-        "name": "KANGAROO",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "LA BOMBE",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "LA TARTE",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "MERINGUE",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "SMARTIES",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "TIRAMISU",
-        "tags": ["Savoureux 🍬", "Drôle 😆"]
-    },
-    {
-        "name": "VENTOUSE",
-        "tags": ["Drôle 😆", "Fort 💣"]
-    },
-    {
-        "name": "BESO FRIO",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "BOY SCOUT",
-        "tags": ["Savoureux 🍬", "Flambé 🔥"]
-    },
-    {
-        "name": "CHUPITZAZO",
-        "tags": ["Drôle 😆", "Fort 💣"]
-    },
-    {
-        "name": "CUCARACHA",
-        "tags": ["Flambé 🔥"]
-    },
-    {
-        "name": "LA TORCHE",
-        "tags": ["Flambé 🔥", "Savoureux 🍬"]
-    },
-    {
-        "name": "PETA ZÈTA",
-        "tags": ["Drôle 😆", "Fort 💣"]
-    },
-    {
-        "name": "3ÈME GRADE",
-        "tags": ["Fort 💣"]
-    },
-    {
-        "name": "BOB MARLEY",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "PETA FRESA",
-        "tags": ["Drôle 😆", "Savoureux 🍬"]
-    },
-    {
-        "name": "TERMINATOR",
-        "tags": ["Fort 💣"]
-    },
-    {
-        "name": "CANDY CRUSH",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "INDIAN PIPE",
-        "tags": ["Flambé 🔥", "Drôle 😆"]
-    },
-    {
-        "name": "JAGER LEMON",
-        "tags": ["Drôle 😆", "Fort 💣"]
-    },
-    {
-        "name": "KALASHNIKOV",
-        "tags": ["Flambé 🔥", "Fort 💣"]
-    },
-    {
-        "name": "P'TI CHINOIS",
-        "tags": ["Savoureux 🍬", "Flambé 🔥"]
-    },
-    {
-        "name": "VIUADA NEGRA",
-        "tags": ["Savoureux 🍬", "Fort 💣", "Drôle 😆"]
-    },
-    {
-        "name": "WILLY WONKA",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "ESPRIT POTTER",
-        "tags": ["Flambé 🔥", "Savoureux 🍬"]
-    },
-    {
-        "name": "FILS DE PUTE",
-        "tags": ["Fort 💣"]
-    },
-    {
-        "name": "FINDING NEMO",
-        "tags": ["Savoureux 🍬", "Drôle 😆"]
-    },
-    {
-        "name": "IRISH COFFEE",
-        "tags": ["Flambé 🔥", "Fort 💣", "Savoureux 🍬"]
-    },
-    {
-        "name": "PULP FICTION",
-        "tags": ["Fort 💣", "Drôle 😆"]
-    },
-    {
-        "name": "DOUCHE DOREE",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "LES 3 CLAQUES",
-        "tags": ["Fort 💣"]
-    },
-    {
-        "name": "TITTY TWISTER",
-        "tags": ["Savoureux 🍬"]
-    },
-    {
-        "name": "ROULETTE RUSSE",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "BANANA DEL AMOR",
-        "tags": ["Savoureux 🍬", "Drôle 😆"]
-    },
-    {
-        "name": "MANGE MA PATATE",
-        "tags": ["Savoureux 🍬", "Drôle 😆"]
-    },
-    {
-        "name": "SWEET BODY SHOT",
-        "tags": ["Drôle 😆"]
-    },
-    {
-        "name": "TETON DE SILVIA",
-        "tags": ["Savoureux 🍬", "Drôle 😆"]
-    }
+{"name": "67", "tags": []},
+{"name": "YETI", "tags": []},
+{"name": "MAITE", "tags": []},
+{"name": "CARMEN", "tags": []},
+{"name": "RACING", "tags": []},
+{"name": "GEORGIA", "tags": []},
+{"name": "VICIEUX ", "tags": []},
+{"name": "KANGAROO", "tags": []},
+{"name": "SON GOKU", "tags": []},
+{"name": "LA TORCHE", "tags": ["Savoureux 🍬"]},
+{"name": "69", "tags": []},
+{"name": "ZUT!", "tags": []},
+{"name": "MAORI", "tags": []},
+{"name": "CASPER", "tags": []},
+{"name": "RAQUEL", "tags": []},
+{"name": "GORETTI", "tags": []},
+{"name": "ALICANTE", "tags": []},
+{"name": "KENTUCKY", "tags": []},
+{"name": "SOUCCIEUX", "tags": []},
+{"name": "LA TUEUSE", "tags": []},
+{"name": "93", "tags": []},
+{"name": "ACID", "tags": ["Savoureux 🍬"]},
+{"name": "MARIA", "tags": []},
+{"name": "CASTRE", "tags": []},
+{"name": "ROBERT", "tags": []},
+{"name": "INSECTE", "tags": []},
+{"name": "AQUARIUM", "tags": []},
+{"name": "LA BAISE", "tags": []},
+{"name": "TIRAMISU", "tags": []},
+{"name": "LE BEAUF'", "tags": []},
+{"name": "JJ", "tags": []},
+{"name": "ALINE", "tags": []},
+{"name": "MARTA", "tags": []},
+{"name": "CHICHA", "tags": []},
+{"name": "SANDRA", "tags": []},
+{"name": "KITCHEN", "tags": []},
+{"name": "ASPIRINE", "tags": []},
+{"name": "LA BOMBE", "tags": ["Flambé 🔥"]},
+{"name": "TOP LESS", "tags": []},
+{"name": "LE CHELOU", "tags": []},
+{"name": "PT", "tags": []},
+{"name": "AMIGO", "tags": []},
+{"name": "MELON", "tags": ["Savoureux 🍬"]},
+{"name": "CHILLI", "tags": ["Épicé 🌶️"]},
+{"name": "SILVIA,", "tags": []},
+{"name": "KREMLIN", "tags": []},
+{"name": "BABY GUM", "tags": []},
+{"name": "LA LEPRE", "tags": []},
+{"name": "TRIPHASE", "tags": []},
+{"name": "LE GOUJAT", "tags": []},
+{"name": "666", "tags": []},
+{"name": "ANDRE", "tags": []},
+{"name": "MINOU", "tags": []},
+{"name": "CHUCKY", "tags": []},
+{"name": "SNOOPY", "tags": []},
+{"name": "LA DAME", "tags": []},
+{"name": "BABYLONE", "tags": ["Acide 🍋‍🟩"]},
+{"name": "LA SEINE", "tags": []},
+{"name": "VENTOUSE", "tags": ["Fort 💣", "Drôle 😆", "Flambé 🔥"]},
+{"name": "LE SHAKER", "tags": ["Drôle 😆", "Épicé 🌶️"]},
+{"name": "ATS", "tags": []},
+{"name": "ANGEL", "tags": []},
+{"name": "MOCHE", "tags": []},
+{"name": "COINCE", "tags": []},
+{"name": "SORBET", "tags": ["Acide 🍋‍🟩"]},
+{"name": "LA MORT", "tags": ["Fort 💣", "Sec 🌵"]},
+{"name": "BIG PAPA", "tags": ["Flambé 🔥"]},
+{"name": "LA TARTE", "tags": []},
+{"name": "A L'USURE", "tags": []},
+{"name": "LEMON PIE", "tags": []},
+{"name": "EDU", "tags": []},
+{"name": "ASTRO", "tags": []},
+{"name": "MORUE", "tags": []},
+{"name": "CONCHI", "tags": []},
+{"name": "SOUPIR", "tags": []},
+{"name": "LA PAIE", "tags": []},
+{"name": "BLUE RAY", "tags": ["Flambé 🔥"]},
+{"name": "LA TEUF'", "tags": []},
+{"name": "ACID-BEAR", "tags": []},
+{"name": "L'HEXTRIL", "tags": []},
+{"name": "ELI", "tags": []},
+{"name": "BAMBI", "tags": []},
+{"name": "NUQUE", "tags": []},
+{"name": "CORAIL", "tags": []},
+{"name": "SPICED", "tags": []},
+{"name": "LA PIPE", "tags": ["Avec la crème 🍦", "Drôle 😆"]},
+{"name": "BRILLANT", "tags": []},
+{"name": "LA TOMBE", "tags": []},
+{"name": "ALLEMAGNE", "tags": []},
+{"name": "MANHATTAN", "tags": []},
+{"name": "EVA", "tags": []},
+{"name": "BARCA", "tags": []},
+{"name": "NURIA", "tags": []},
+{"name": "COUGAR", "tags": ["Avec la crème 🍦"]},
+{"name": "SUISSE", "tags": []},
+{"name": "LAGARUS", "tags": []},
+{"name": "BULL DOG", "tags": ["Sec 🌵"]},
+{"name": "LAC BLEU", "tags": []},
+{"name": "ARIBAU 77", "tags": []},
+{"name": "MARGARINE", "tags": []},
+{"name": "KTM", "tags": []},
+{"name": "BETIS", "tags": []},
+{"name": "OASIS", "tags": []},
+{"name": "CREOLE", "tags": []},
+{"name": "TARZAN", "tags": []},
+{"name": "L'APERO", "tags": []},
+{"name": "CALIENTE", "tags": []},
+{"name": "LAURINDA", "tags": []},
+{"name": "BARQUETTE", "tags": []},
+{"name": "MARGARITA", "tags": ["Acide 🍋‍🟩"]},
+{"name": "LCD", "tags": []},
+{"name": "BISOU", "tags": []},
+{"name": "ORGIE", "tags": []},
+{"name": "DEMODE", "tags": []},
+{"name": "TETRIS", "tags": []},
+{"name": "LE BANG", "tags": []},
+{"name": "CAMELEON", "tags": []},
+{"name": "LE COMTE", "tags": []},
+{"name": "BESO FRIO", "tags": []},
+{"name": "MEXICAINE", "tags": []},
+{"name": "LEO", "tags": []},
+{"name": "BUZZZ", "tags": []},
+{"name": "OSCAR", "tags": []},
+{"name": "DOMINO", "tags": []},
+{"name": "TWINGO", "tags": []},
+{"name": "LE PIAF", "tags": []},
+{"name": "CARAMELO", "tags": []},
+{"name": "LE HULOT", "tags": []},
+{"name": "BIN LADEN", "tags": []},
+{"name": "MONA LISA", "tags": ["Savoureux 🍬"]},
+{"name": "LSD", "tags": []},
+{"name": "CANOE", "tags": []},
+{"name": "PACHA", "tags": ["Savoureux 🍬"]},
+{"name": "DOUDOU", "tags": []},
+{"name": "VIAGRA", "tags": []},
+{"name": "LE TARE", "tags": []},
+{"name": "CAROLINA", "tags": []},
+{"name": "LE MEGOT", "tags": []},
+{"name": "BOY SCOUT", "tags": ["Savoureux 🍬", "Flambé 🔥"]},
+{"name": "MOSCOVITE", "tags": []},
+{"name": "PSG", "tags": []},
+{"name": "COLON", "tags": []},
+{"name": "PEACH", "tags": []},
+{"name": "DUSTIN", "tags": []},
+{"name": "WASABI", "tags": []},
+{"name": "LICORNE", "tags": []},
+{"name": "CERVELLE", "tags": ["Savoureux 🍬"]},
+{"name": "LE SUCON", "tags": []},
+{"name": "CHARLOTTE", "tags": []},
+{"name": "OH MERDE!", "tags": []},
+{"name": "PYR", "tags": []},
+{"name": "CORNE", "tags": []},
+{"name": "PEPIN", "tags": ["Acide 🍋‍🟩"]},
+{"name": "EN RUT", "tags": []},
+{"name": "ZENITH", "tags": []},
+{"name": "LORENZO", "tags": ["Fort 💣", "Flambé 🔥"]},
+{"name": "CHA'BITE", "tags": ["Sec 🌵"]},
+{"name": "L'EPERON", "tags": []},
+{"name": "CHE'LA GA", "tags": []},
+{"name": "PERROQUET", "tags": []},
+{"name": "SEX", "tags": []},
+{"name": "CUORE", "tags": ["Savoureux 🍬"]},
+{"name": "PEPS'", "tags": []},
+{"name": "ESTHER", "tags": []},
+{"name": "20 AOUT", "tags": []},
+{"name": "LOU LOU", "tags": []},
+{"name": "CHEROKEE", "tags": []},
+{"name": "MARIACHI", "tags": []},
+{"name": "CHOUETTE!", "tags": []},
+{"name": "PETA ZETA", "tags": ["Savoureux 🍬", "Drôle 😆"]},
+{"name": "TGV", "tags": ["Fort 💣"]},
+{"name": "DAISY", "tags": []},
+{"name": "PILAR", "tags": []},
+{"name": "EXTASY", "tags": []},
+{"name": "A FOND!", "tags": []},
+{"name": "LOURDES", "tags": []},
+{"name": "CLITORIS", "tags": []},
+{"name": "MERINGUE", "tags": ["Avec la crème 🍦"]},
+{"name": "CHUPITAZO", "tags": ["Flambé 🔥", "Drôle 😆"]},
+{"name": "PRESIDENT", "tags": []},
+{"name": "TMB", "tags": []},
+{"name": "DUMBO", "tags": []},
+{"name": "PONEY", "tags": []},
+{"name": "FISTRO", "tags": []},
+{"name": "ALEGRIA", "tags": []},
+{"name": "MACARON", "tags": []},
+{"name": "COCOCHOC", "tags": ["Avec la crème 🍦"]},
+{"name": "MEXICANO", "tags": []},
+{"name": "CIEL BLEU", "tags": []},
+{"name": "PRINCESSE", "tags": []},
+{"name": "TNT", "tags": []},
+{"name": "DUPUY", "tags": []},
+{"name": "RAMON", "tags": []},
+{"name": "FONDUE", "tags": []},
+{"name": "ALPISTE", "tags": []},
+{"name": "MACHINE", "tags": []},
+{"name": "TXZ", "tags": []},
+{"name": "EDWIN", "tags": []},
+{"name": "RUBEN", "tags": []},
+{"name": "FONSDE", "tags": []},
+{"name": "AMNESIA", "tags": []},
+{"name": "MAFALDA", "tags": []},
+{"name": "ACID", "tags": ["Savoureux 🍬", "Acide 🍋‍🟩"]},
+{"name": "ELENA", "tags": []},
+{"name": "RUSSE", "tags": ["Avec la crème 🍦"]},
+{"name": "GATEAU", "tags": []},
+{"name": "ANTOINE", "tags": []},
+{"name": "MAGIQUE", "tags": []},
+{"name": "ALEX", "tags": []},
+{"name": "F YOU", "tags": []},
+{"name": "SADAM", "tags": []},
+{"name": "GLORIA", "tags": []},
+{"name": "BOUFFON", "tags": []},
+{"name": "MANUELA", "tags": []},
+{"name": "AMOR", "tags": []},
+{"name": "FANNY", "tags": []},
+{"name": "SANDY", "tags": []},
+{"name": "GORDON", "tags": []},
+{"name": "BRULURE", "tags": ["Fort 💣"]},
+{"name": "MARTINE", "tags": []},
+{"name": "B-52", "tags": ["Flambé 🔥"]},
+{"name": "FELIX", "tags": []},
+{"name": "SATAN", "tags": []},
+{"name": "HAWAII", "tags": []},
+{"name": "BUFFALO", "tags": []},
+{"name": "MORPION", "tags": []},
+{"name": "BOYS", "tags": []},
+{"name": "FENIX", "tags": []},
+{"name": "SENSI", "tags": []},
+{"name": "HEROIN", "tags": ["Fort 💣", "Drôle 😆", "Sec 🌵"]},
+{"name": "CABANIS", "tags": []},
+{"name": "MURPHIS", "tags": []},
+{"name": "CARS", "tags": []},
+{"name": "FOUET", "tags": []},
+{"name": "SILVI", "tags": []},
+{"name": "ISABEL", "tags": []},
+{"name": "CACERES", "tags": []},
+{"name": "OLYMPIA", "tags": []},
+{"name": "E.T.", "tags": []},
+{"name": "FREDI", "tags": ["Savoureux 🍬", "Acide 🍋‍🟩"]},
+{"name": "SINGE", "tags": ["Fort 💣"]},
+{"name": "JEROME", "tags": []},
+{"name": "CALIPPO", "tags": ["Acide 🍋‍🟩"]},
+{"name": "ORGASME", "tags": ["Savoureux 🍬", "Drôle 😆"]},
+{"name": "IVAN", "tags": []},
+{"name": "FURBY", "tags": []},
+{"name": "SNAPS", "tags": []},
+{"name": "JULITO", "tags": []},
+{"name": "CANARTE", "tags": []},
+{"name": "PARFUME", "tags": []},
+{"name": "K.O.", "tags": []},
+{"name": "FUSEE", "tags": []},
+{"name": "SONIA", "tags": []},
+{"name": "KILIAN", "tags": []},
+{"name": "CARAIBE", "tags": []},
+{"name": "PASSION", "tags": []},
+{"name": "LOLO", "tags": []},
+{"name": "GEMMA", "tags": []},
+{"name": "SUNNY", "tags": []},
+{"name": "LA PIE", "tags": []},
+{"name": "CARLTON", "tags": []},
+{"name": "PATRICK", "tags": []},
+{"name": "CONSTIPE", "tags": []},
+{"name": "MEXICOLA", "tags": []},
+{"name": "COCA LOCA", "tags": []},
+{"name": "PTIT COUP", "tags": []},
+{"name": "LUIS", "tags": []},
+{"name": "GHOST", "tags": []},
+{"name": "TONIC", "tags": ["Acide 🍋‍🟩"]},
+{"name": "LAUREN", "tags": []},
+{"name": "CARTOON", "tags": []},
+{"name": "PELUCHE", "tags": []},
+{"name": "CORSAIRE", "tags": []},
+{"name": "NATHALIE", "tags": []},
+{"name": "CONCOMBRE", "tags": []},
+{"name": "SALVATORE", "tags": []},
+{"name": "LUNA", "tags": []},
+{"name": "GOLUM", "tags": []},
+{"name": "TURBO", "tags": []},
+{"name": "LE JAP", "tags": []},
+{"name": "CATALAN", "tags": []},
+{"name": "PICA PI", "tags": []},
+{"name": "CREMEUSE", "tags": []},
+{"name": "PANELLET", "tags": []},
+{"name": "CONDEMORE", "tags": []},
+{"name": "SILVESTRE", "tags": ["Avec la crème 🍦"]},
+{"name": "LYNN", "tags": []},
+{"name": "GONZO", "tags": []},
+{"name": "URKEL", "tags": []},
+{"name": "LEONOR", "tags": []},
+{"name": "CECILIA", "tags": []},
+{"name": "PIGALE", "tags": []},
+{"name": "CRISTINA", "tags": []},
+{"name": "PANTHERE", "tags": []},
+{"name": "CUCARACHA", "tags": []},
+{"name": "TARANTINO", "tags": []},
+{"name": "MANO", "tags": []},
+{"name": "GREEN", "tags": []},
+{"name": "VIP'S", "tags": []},
+{"name": "MARRON", "tags": []},
+{"name": "CELESTE", "tags": []},
+{"name": "POINT G", "tags": ["Savoureux 🍬"]},
+{"name": "ECARLATE", "tags": []},
+{"name": "PHIMOSIS", "tags": []},
+{"name": "DESPERADO", "tags": []},
+{"name": "TOURNENVIS", "tags": []},
+{"name": "MIKY", "tags": []},
+{"name": "HEIDI", "tags": []},
+{"name": "WICHY", "tags": []},
+{"name": "MENUET", "tags": []},
+{"name": "CHINOIS", "tags": []},
+{"name": "EXPLOSIF", "tags": []},
+{"name": "PISTOLET", "tags": []},
+{"name": "DREAMCAST", "tags": []},
+{"name": "VENGEANCE", "tags": ["Fort 💣"]},
+{"name": "NEMS", "tags": []},
+{"name": "IVANA", "tags": []},
+{"name": "WINNY", "tags": []},
+{"name": "MERCHE", "tags": []},
+{"name": "COW-BOY", "tags": []},
+{"name": "FARFADET", "tags": []},
+{"name": "POIGNARD", "tags": []},
+{"name": "EN GALERE", "tags": []},
+{"name": "3EME GRADE", "tags": []},
+{"name": "NOEL", "tags": []},
+{"name": "JOEDI", "tags": []},
+{"name": "ZARBI", "tags": []},
+{"name": "MEXICO", "tags": []},
+{"name": "CRISTAL", "tags": []},
+{"name": "FLORENCE", "tags": []},
+{"name": "POLVORON", "tags": []},
+{"name": "EXORCISTE", "tags": []},
+{"name": "A L'ENVERS", "tags": ["Avec la crème 🍦"]},
+{"name": "OLGA", "tags": []},
+{"name": "JORDI", "tags": []},
+{"name": "7 MERS", "tags": []},
+{"name": "MICKEY", "tags": []},
+{"name": "CUA CUA", "tags": []},
+{"name": "FOUFOUNE", "tags": []},
+{"name": "PROSTATE", "tags": []},
+{"name": "FEU ROUGE", "tags": ["Savoureux 🍬", "Drôle 😆"]},
+{"name": "APOCALYPSE", "tags": []},
+{"name": "OVNI", "tags": []},
+{"name": "KIKOS", "tags": []},
+{"name": "APACHE", "tags": []},
+{"name": "MIMOSA", "tags": []},
+{"name": "CUL SEC", "tags": []},
+{"name": "FURONCLE", "tags": []},
+{"name": "PTI BOUT", "tags": []},
+{"name": "FLAT LINE", "tags": []},
+{"name": "ASPTRATEUR", "tags": []},
+{"name": "RAYE", "tags": []},
+{"name": "KILDO", "tags": []},
+{"name": "ARAGON", "tags": []},
+{"name": "NANTES", "tags": []},
+{"name": "CUPCAKE", "tags": ["Avec la crème 🍦"]},
+{"name": "GASOLINA", "tags": []},
+{"name": "RANIANIA", "tags": []},
+{"name": "HALLOWEEN", "tags": []},
+{"name": "BOB MARLEY", "tags": []},
+{"name": "ROM'", "tags": []},
+{"name": "LEANS", "tags": []},
+{"name": "BASQUE", "tags": []},
+{"name": "NIEVES", "tags": []},
+{"name": "DECHIRE", "tags": []},
+{"name": "GIUSEPPE", "tags": []},
+{"name": "RED FIRE", "tags": []},
+{"name": "HEMOROIDE", "tags": []},
+{"name": "BONBARDIER", "tags": []},
+{"name": "RUTH", "tags": []},
+{"name": "LIDIA", "tags": []},
+{"name": "BAVEUX", "tags": []},
+{"name": "NORRIS", "tags": []},
+{"name": "DEFONCE", "tags": ["Acide 🍋‍🟩"]},
+{"name": "GOURMAND", "tags": []},
+{"name": "REGLISSE", "tags": []},
+{"name": "JOSE LUIS", "tags": []},
+{"name": "BONNE NUIT", "tags": []},
+{"name": "SANG", "tags": []},
+{"name": "L'OEUF", "tags": []},
+{"name": "BIANCO", "tags": []},
+{"name": "PANCHO", "tags": []},
+{"name": "DRACULA", "tags": []},
+{"name": "GROS CON", "tags": []},
+{"name": "RONDELLE", "tags": []},
+{"name": "KTLL BILL", "tags": []},
+{"name": "BOOB CHA", "tags": []},
+{"name": "TATO", "tags": []},
+{"name": "L'OIE", "tags": []},
+{"name": "BODEGA", "tags": []},
+{"name": "PASSOA", "tags": []},
+{"name": "ECHELLE", "tags": ["Fort 💣"]},
+{"name": "HAS BEEN", "tags": []},
+{"name": "RUSTIQUE", "tags": []},
+{"name": "KING KONG", "tags": []},
+{"name": "WILL", "tags": []},
+{"name": "LOTUS", "tags": []},
+{"name": "CABRON", "tags": []},
+{"name": "PILULE", "tags": []},
+{"name": "EMELINE", "tags": []},
+{"name": "HAWAIANO", "tags": []},
+{"name": "SEMEN UP", "tags": []},
+{"name": "LA CAPOTE", "tags": ["Drôle 😆"]},
+{"name": "CAFE CREME", "tags": []},
+{"name": "WORM", "tags": []},
+{"name": "LUIGI", "tags": []},
+{"name": "CANERO", "tags": []},
+{"name": "PIRATE", "tags": []},
+{"name": "FERRARI", "tags": []},
+{"name": "HYSTERIE", "tags": ["Flambé 🔥", "Épicé 🌶️"]},
+{"name": "SIDE CAR", "tags": []},
+{"name": "LA MASSUE", "tags": []},
+{"name": "CAPPUCCINO", "tags": []},
+{"name": "XENA", "tags": []},
+{"name": "LUTTIN", "tags": []},
+{"name": "KAMIKAZE", "tags": []},
+{"name": "SMARTIES", "tags": []},
+{"name": "LA PATATE", "tags": []},
+{"name": "CLEMENTINE", "tags": []},
+{"name": "CRÂNE D'OEUF", "tags": []},
+{"name": "LA CASQUETTE", "tags": []},
+{"name": "TÉTON DE SILVIA", "tags": ["Drôle 😆", "Savoureux 🍬", "Avec la crème 🍦"]},
+{"name": "COCCINELLE", "tags": []},
+{"name": "ESPIT MOUSE", "tags": ["Avec la crème 🍦"]},
+{"name": "LA COLLATION", "tags": []},
+{"name": "CAP' OU PAS CAP'", "tags": []},
+{"name": "CORRUPTION", "tags": []},
+{"name": "FRENCH KISS", "tags": []},
+{"name": "LAS 3 MARIAS", "tags": []},
+{"name": "COEUR D'ARTICHAUT", "tags": []},
+{"name": "COUP D'JUS", "tags": []},
+{"name": "INDIAN PIPE", "tags": ["Flambé 🔥", "Sec 🌵"]},
+{"name": "LE MEURTRIER", "tags": []},
+{"name": "FOIE DE VOLAILLE", "tags": []},
+{"name": "CREEP SHOW", "tags": []},
+{"name": "JAGER LEMON", "tags": ["Sec 🌵", "Acide 🍋‍🟩"]},
+{"name": "LE SQUELETTE", "tags": []},
+{"name": "FOUNE EN CHALEUR", "tags": []},
+{"name": "DOMINICAIN", "tags": []},
+{"name": "KALASHNIKOV", "tags": ["Acide 🍋‍🟩", "Fort 💣", "Sec 🌵"]},
+{"name": "MONTURIOL 29", "tags": []},
+{"name": "HEMATOME VAGINAL", "tags": []},
+{"name": "EN CHALEUR", "tags": []},
+{"name": "KESKISPASSE", "tags": []},
+{"name": "PLAYA BANANA", "tags": []},
+{"name": "MANZANA CALIENTE", "tags": []},
+{"name": "ESPIT WARS", "tags": []},
+{"name": "LA BARMACIE", "tags": []},
+{"name": "POLYURETHANE", "tags": []},
+{"name": "OMBRE ET LUMIÈRE", "tags": []},
+{"name": "EUCALYPTUS", "tags": []},
+{"name": "LA BEQUILLE", "tags": []},
+{"name": "POPPER ESPIT", "tags": []},
+{"name": "PACTO DEL DIABLO", "tags": ["Sec 🌵", "Flambé 🔥", "Fort 💣"]},
+{"name": "GATO NEGRO", "tags": ["Avec la crème 🍦", "Acide 🍋‍🟩"]},
+{"name": "LA MARICADA", "tags": []},
+{"name": "PULP FICTION", "tags": ["Drôle 😆"]},
+{"name": "POSE TOI D'ABORD", "tags": []},
+{"name": "GRAND SLAM", "tags": []},
+{"name": "LA PISSEUSE", "tags": []},
+{"name": "REMAMAHUEVOS", "tags": []},
+{"name": "PSSST...DANS L'ŒIL", "tags": []},
+{"name": "GRENOUILLE", "tags": []},
+{"name": "LA SAUCISSE", "tags": []},
+{"name": "SHOT ESTIVAL", "tags": []},
+{"name": "TEQUILA DEL AMOR", "tags": ["Drôle 😆", "Acide 🍋‍🟩"]},
+{"name": "GUMMY BEAR", "tags": ["Savoureux 🍬", "Acide 🍋‍🟩"]},
+{"name": "MAREE NOIRE", "tags": ["Fort 💣", "Sec 🌵"]},
+{"name": "TUTTI FRUTTI", "tags": []},
+{"name": "VACHE EN CHALEUR", "tags": []},
+{"name": "JAMAIS 203", "tags": []},
+{"name": "MONTPELLIER", "tags": []},
+{"name": "AMOUR PARFAIT", "tags": []},
+{"name": "CRÈME DE LA CRÈME", "tags": ["Savoureux 🍬"]},
+{"name": "JORDI CULE", "tags": []},
+{"name": "ON REMET CA", "tags": []},
+{"name": "CAPITAIN COLA", "tags": []},
+{"name": "GORGEE DE L'ENFER", "tags": ["Épicé 🌶️"]},
+{"name": "LA DIARHÉE", "tags": ["Acide 🍋‍🟩"]},
+{"name": "PARIS PLAGE", "tags": []},
+{"name": "COUP D' BOULE", "tags": []},
+{"name": "LA PEAU DE L'OURS", "tags": []},
+{"name": "LA GALETTE", "tags": []},
+{"name": "PTI CHINOIS", "tags": []},
+{"name": "EMAIL DIAMENT", "tags": []},
+{"name": "OMELETTE A L'OEUF", "tags": []},
+{"name": "LE BOLOSSS", "tags": ["Drôle 😆"]},
+{"name": "RIZ AU LAIT", "tags": []},
+{"name": "JAMBE DE BOIS", "tags": []},
+{"name": "SECOUSSE SYSMIQUE", "tags": []},
+{"name": "LE BOUCHON", "tags": []},
+{"name": "SAINT JORDI", "tags": []},
+{"name": "LE PLUS TENDU", "tags": []},
+{"name": "VERRE DE CHOCOLAT", "tags": []},
+{"name": "LE DERNIER", "tags": []},
+{"name": "SANS REMEDE", "tags": []},
+{"name": "LE PTI BERGER", "tags": []},
+{"name": "CHUPA CHUPA CABRÓN", "tags": ["Drôle 😆", "Fort 💣"]},
+{"name": "LE FANTÔME", "tags": []},
+{"name": "SPICY CREAM", "tags": ["Avec la crème 🍦"]},
+{"name": "LES 3 CLAQUES", "tags": ["Sec 🌵", "Fort 💣"]},
+{"name": "BROUTTE MOI L'MINOU", "tags": []},
+{"name": "LE PÈLERIN", "tags": []},
+{"name": "TÉLÉTUBBIES", "tags": []},
+{"name": "NO MAMES GUEY", "tags": ["Épicé 🌶️", "Acide 🍋‍🟩"]},
+{"name": "COQUILLE EN CHALEUR", "tags": ["Épicé 🌶️", "Fort 💣"]},
+{"name": "LE SPÉCIAL", "tags": []},
+{"name": "TREMBLEMENT", "tags": []},
+{"name": "NOIR ET BLANC", "tags": []},
+{"name": "LA QUEUE QUI TRAÎNE", "tags": ["Drôle 😆"]},
+{"name": "LIMA ESPIT", "tags": []},
+{"name": "TROPICALOVE", "tags": ["Savoureux 🍬"]},
+{"name": "NOUVO MEXIQUE", "tags": []},
+{"name": "L'INFUSION DE DAVID", "tags": []},
+{"name": "MAMOUNETTE", "tags": []},
+{"name": "VACHE FOLLE", "tags": []},
+{"name": "PETITE SIRÈNE", "tags": []},
+{"name": "L'ORGASME RELIGIEUX", "tags": []},
+{"name": "MARY WHITE", "tags": []},
+{"name": "VERANO LOCO", "tags": []},
+{"name": "SAINT PATRICK", "tags": []},
+{"name": "AISSELLE MALODORANTE", "tags": []},
+{"name": "MAS TRADER", "tags": []},
+{"name": "VIE EN ROSE", "tags": []},
+{"name": "TITTY TWISTER", "tags": []},
+{"name": "FOUTRE DE SCHTROUMPH", "tags": []},
+{"name": "METROPOLIS", "tags": []},
+{"name": "VIUDA NEGRA", "tags": ["Drôle 😆", "Fort 💣"]},
+{"name": "TU KIFFES PAS", "tags": []},
+{"name": "LE BAISER DE LA MORT", "tags": []},
+{"name": "MR PRO-PRE", "tags": []},
+{"name": "WILLY WONKA", "tags": ["Avec la crème 🍦"]},
+{"name": "VIEUX PERVERS", "tags": []},
+{"name": "L'ORGASME SCANDALEU", "tags": []},
+{"name": "PEAU ROUGE", "tags": []},
+{"name": "YING & YANG", "tags": []},
+{"name": "DULCE DE LECHE", "tags": []},
+{"name": "COUP DE QUEUE / REIN", "tags": []},
+{"name": "A+ COLLEGUE!", "tags": ["Sec 🌵", "Fort 💣"]},
+{"name": "HARD BODY SHOT", "tags": ["Drôle 😆"]},
+{"name": "DANI LE VERS DE TERR", "tags": []},
+{"name": "AFRODISIAQUE", "tags": []},
+{"name": "JUS DE COUILLE", "tags": []},
+{"name": "PROPOSITION INDECENTE", "tags": []},
+{"name": "BANANA ESPIT", "tags": ["Savoureux 🍬", "Acide 🍋‍🟩"]},
+{"name": "PLANCHE A PAIN", "tags": []},
+{"name": "ESPITMIX IN THE BOITE", "tags": []},
+{"name": "BENITO & CIA", "tags": ["Épicé 🌶️"]},
+{"name": "QUI PASSE BIEN", "tags": []},
+{"name": "LE JEU DE LA BOUTEILLE", "tags": []},
+{"name": "BLOODY ESPIT", "tags": ["Épicé 🌶️", "Acide 🍋‍🟩"]},
+{"name": "RAFRAICHISSANT", "tags": []},
+{"name": "BOB LESPONGE", "tags": []},
+{"name": "ROULETTE RUSSE", "tags": ["Épicé 🌶️", "Drôle 😆"]},
+{"name": "CAFÉ AU LAIT", "tags": []},
+{"name": "SCHTROUMPHETTE", "tags": []},
+{"name": "CHUPITO TATU", "tags": []},
+{"name": "SENORITA PEPIS", "tags": []},
+{"name": "CITRON SHAKE", "tags": []},
+{"name": "STRING DÉCHIRÉ", "tags": []},
+{"name": "DOUCHE DORÉE", "tags": ["Drôle 😆"]},
+{"name": "TETON GLISSANT", "tags": []},
+{"name": "DRAGON BALLS", "tags": ["Acide 🍋‍🟩", "Drôle 😆"]},
+{"name": "BANANA DEL AMOR", "tags": []},
+{"name": "ESPIT POTTER", "tags": ["Savoureux 🍬", "Flambé 🔥"]},
+{"name": "BELLVER CERDAÑA", "tags": []},
+{"name": "FILS DE PUTE", "tags": []},
+{"name": "COUP D'PRESSION", "tags": []},
+{"name": "FINDING NEMO", "tags": []},
+{"name": "DEBUT DE REGLES", "tags": []},
+{"name": "FLAMME ROUGE", "tags": ["Avec la crème 🍦"]},
+{"name": "LES RESTES FLUX", "tags": []},
+{"name": "HUNGRY BIRDS", "tags": ["Épicé 🌶️", "Flambé 🔥", "Fort 💣"]},
+{"name": "MANGE MA PATATE", "tags": ["Épicé 🌶️", "Savoureux 🍬", "Acide 🍋‍🟩", "Drôle 😆"]},
+{"name": "IRISH COFFEE", "tags": []},
+{"name": "MANHATTAN WHITE", "tags": ["Acide 🍋‍🟩"]},
+{"name": "JOHNNIE COOL", "tags": ["Flambé 🔥", "Avec la crème 🍦"]},
+{"name": "SWEET BODY SHOT", "tags": ["Drôle 😆"]}
 ]
